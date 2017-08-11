@@ -5,5 +5,5 @@ import org.springframework.data.neo4j.repository.GraphRepository;
 public interface ParadaMetroDAO extends GraphRepository<ParadaMetroDAO> 
 {
 
-	ParadaMetroDAO findByNombreParada(String nombreParada);
+	//ParadaMetroDAO findByNombreParada(String nombreParada);
 }

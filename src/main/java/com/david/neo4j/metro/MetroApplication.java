@@ -17,7 +17,7 @@ public class MetroApplication {
 		 Session session = Neo4jSessionFactory.getInstance().getNeo4jSession();
 		 
 		 ParadaMetro p1= new ParadaMetro();
-		 
+		 p1.setNombreParada("Chamartin");
 		 session.save(p1);
 	}
 }

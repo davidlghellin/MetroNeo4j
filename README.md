@@ -6,3 +6,6 @@ hemos ido a http://start.spring.io/ para que nos cree el pom con sus dependencia
 
 Se ha instalado neo4j, que en Archlinux ha sido muy sencillo usando packer: __packer neo4j__
 Podemos ejecutar desde maven en el proyecto __mvn spring-boot:run__
+
+
+Viendo la nuevas tendencias se vera proximamente con una configuracion Docker.
